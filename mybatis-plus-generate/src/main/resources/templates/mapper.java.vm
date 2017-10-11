@@ -1,0 +1,13 @@
+package ${package.Mapper};
+
+import ${package.Entity}.${entity};
+import ${superMapperClassPackage};
+
+/**
+ *
+ * $!{table.comment}
+ * Created by ${author} on  ${date}.
+ */
+public interface ${table.mapperName} extends ${superMapperClass}<${entity}> {
+
+}

@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.gizwits.noti2.SnotiAutoConfiguration,\
+com.gizwits.noti2.SnotiBeanAutoConfiguration

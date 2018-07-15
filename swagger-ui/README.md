@@ -6,7 +6,7 @@
 
 ```
 <dependency>
-    <groupId>com.taobao</groupId>
+    <groupId>com.github</groupId>
     <artifactId>swagger-ui</artifactId>
     <version>2.9.2</version>
 </dependency>

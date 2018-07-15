@@ -11,6 +11,7 @@
     <url>http://maven.apache.org</url>
 
     <modules>
+        <module>swagger-ui</module>
         <module>spring-boot-shiro</module>
         <module>mybatis-plus-generate</module>
         <module>spring-boot-security</module>

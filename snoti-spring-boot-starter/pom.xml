@@ -2,17 +2,20 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gizwits</groupId>
-    <artifactId>spring-boot-starter</artifactId>
+    <groupId>com.github</groupId>
+    <artifactId>snoti-spring-boot-starter</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-starter</name>
+    <name>snoti-spring-boot-starter</name>
     <url>http://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-boot.version>1.5.7.RELEASE</spring-boot.version>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
+        <java.version>1.8</java.version>
+        <spring-boot.version>1.5.14.RELEASE</spring-boot.version>
         <noti.version>0.1.4</noti.version>
     </properties>
 

@@ -159,7 +159,8 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <fork>true</fork>
+                    <mainClass>com.github.stater.main.App</mainClass>
+                    <layout>ZIP</layout>
                 </configuration>
                 <executions>
                     <execution>
@@ -168,13 +169,6 @@
                         </goals>
                     </execution>
                 </executions>
-                <dependencies>
-                    <dependency>
-                        <groupId>org.springframework</groupId>
-                        <artifactId>springloaded</artifactId>
-                        <version>1.2.8.RELEASE</version>
-                    </dependency>
-                </dependencies>
             </plugin>
         </plugins>
     </build>

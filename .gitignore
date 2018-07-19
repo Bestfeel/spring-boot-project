@@ -2,3 +2,10 @@
 *.impl
 target/
 *.log
+mybatis-plus-generate/target
+snoti-spring-boot-starter/target
+spring-boot-security/target
+spring-boot-mybatis/target
+spring-boot-shiro/target
+spring-boot-web/target
+swagger-ui/target

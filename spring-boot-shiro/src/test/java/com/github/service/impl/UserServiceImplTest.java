@@ -1,9 +1,8 @@
 package com.github.service.impl;
 
-import com.gizwits.entity.User;
-import com.gizwits.main.App;
-import com.gizwits.service.IUserService;
+import com.github.entity.User;
 import com.github.main.App;
+import com.github.service.IUserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

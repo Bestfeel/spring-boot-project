@@ -1,5 +1,5 @@
 .idea/
-*.impl
+*.iml
 target/
 *.log
 mybatis-plus-generate/target
